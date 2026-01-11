@@ -43,9 +43,3 @@ The analysis focuses on:
 
 ---
 
-## How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Sehar-Aejaz/nhanes-health-data-wrangling.git
-   cd nhanes-health-data-wrangling
-
